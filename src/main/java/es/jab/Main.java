@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("It's nice to meet you");
 		System.out.println("Nice to meet you too");
 		System.out.println("Well, I am in a hurry. See you soon");
+		System.out.println("See you");
 	}
 
 }
