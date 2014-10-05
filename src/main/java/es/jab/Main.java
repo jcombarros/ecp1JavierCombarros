@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("He is my mate John");
 		System.out.println("It's nice to meet you");
 		System.out.println("Nice to meet you too");
+		System.out.println("Well, I am in a hurry. See you soon");
 	}
 
 }
